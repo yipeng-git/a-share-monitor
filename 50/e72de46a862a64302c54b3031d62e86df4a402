@@ -1,0 +1,77 @@
+collector/config.yaml
+  s_4a6eed1a18e531::t_d96d5e24f77deb 1-82
+  s_4a6eed1a18e531::t_73880d1cba38d7 83
+collector/config_loader.py
+  s_4a6eed1a18e531::t_ded3f9a904feac 28-30,32,35-65
+  s_4a6eed1a18e531::t_1e0bb19e1add78 25-27
+  s_4a6eed1a18e531::t_76caa9eb2f2b6c 31
+  s_4a6eed1a18e531::t_4a6063a20e7781 33-34
+  s_4a6eed1a18e531::t_24d03c0b5de0ad 66-68
+docs/data/shares/2024.json
+  s_4a6eed1a18e531::t_be4d0d35857dcb 1
+docs/data/meta.json
+  s_4a6eed1a18e531::t_be4d0d35857dcb 1
+docs/data/shares/2026.json
+  s_4a6eed1a18e531::t_be4d0d35857dcb 1
+README.md
+  s_4a6eed1a18e531::t_a74ba82e84316d 3-80
+  s_4a6eed1a18e531::t_2a334dc43c4d51 1-2
+  s_4a6eed1a18e531::t_0c5bf7943318a1 81-83
+collector/export_json.py
+  s_4a6eed1a18e531::t_96b0fee844f39e 73-84
+  s_4a6eed1a18e531::t_ac791ce20eb503 70-72
+  s_4a6eed1a18e531::t_2f73a242650ffe 85-87
+collector/fetch_index.py
+  s_4a6eed1a18e531::t_b3dbfe284fb936 38
+  s_4a6eed1a18e531::t_ac611fd0e4a40e 36-37
+  s_4a6eed1a18e531::t_e520defd31b648 33-35
+  s_4a6eed1a18e531::t_781e9d6bcddf39 39-41
+collector/run.py
+  s_4a6eed1a18e531::t_70c9c4bffe4c98 11-156,187
+  s_4a6eed1a18e531::t_eed4bdbcde5b9b 8-10
+  s_4a6eed1a18e531::t_a72578265b9a24 157-159,184-186
+  s_4a6eed1a18e531::t_d2e1b2dde18097 188-190
+docs/data/shares/2025.json
+  s_4a6eed1a18e531::t_be4d0d35857dcb 1
+docs/data/indexes.json
+  s_4a6eed1a18e531::t_be4d0d35857dcb 1
+docs/app.js
+  s_4a6eed1a18e531::t_0c248dea8feb76 181-189
+  s_4a6eed1a18e531::t_24020d89125d3e 77,97,103-112
+  s_4a6eed1a18e531::t_6b4133aee48cff 74-76
+  s_4a6eed1a18e531::t_21184b06018c08 78-80,94-96
+  s_4a6eed1a18e531::t_539d230450dae9 98-102
+  s_4a6eed1a18e531::t_e2a5a81d70bc3f 113-115,178-180
+  s_4a6eed1a18e531::t_f664f6c039aa72 190-192
+collector/requirements.txt
+  s_4a6eed1a18e531::t_d1d21f7328bba0 3-4
+  s_4a6eed1a18e531::t_753fa89efd8818 1-2
+collector/fetch_szse.py
+  s_4a6eed1a18e531::t_f85d01bec47bef 128-129,131-132
+  s_4a6eed1a18e531::t_82bb9e8a837959 1-127,130,133-157
+docs/index.html
+  s_4a6eed1a18e531::t_e01d732b389a36 64-65
+  s_4a6eed1a18e531::t_4e45d7972af3e2 1-63,66-70
+docs/data/etf_shares.json
+  s_4a6eed1a18e531::t_be4d0d35857dcb 1
+collector/run_daily.sh
+  s_4a6eed1a18e531::t_488ac2c2023d5c 1-31
+docs/styles.css
+  s_4a6eed1a18e531::t_850e8d05b841ed 1-244
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "50e72de46a862a64302c54b3031d62e86df4a402",
+  "prompts": {},
+  "sessions": {
+    "s_4a6eed1a18e531": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "75fb2346-95b3-488d-ac52-619b6ac4309d",
+        "model": "grok-4.5"
+      },
+      "human_author": "zhangyipeng <zhangyipeng@p1.com>"
+    }
+  }
+}
