@@ -1,0 +1,28 @@
+docs/sitemap.xml
+  s_9294315bf2777e::t_d10a704bc68e09 1-9
+docs/robots.txt
+  s_9294315bf2777e::t_6c81bc20604d52 1-4
+docs/index.html
+  s_9294315bf2777e::t_937e04c1bc9856 6
+  s_9294315bf2777e::t_ba793d6b2a842c 7-36,47,53-55
+  s_9294315bf2777e::t_0e557fedb178d1 56
+docs/styles.css
+  s_9294315bf2777e::t_e903c8c051602f 59,70-75
+  s_9294315bf2777e::t_891e60b01d396f 76-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "65b86046d9163d6635f9142ae24f84e106d52a7f",
+  "prompts": {},
+  "sessions": {
+    "s_9294315bf2777e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "88b957a1-625b-4769-a103-40aeb3da131b",
+        "model": "grok-4.5"
+      },
+      "human_author": "yipeng-git <63670789+yipeng-git@users.noreply.github.com>"
+    }
+  }
+}
