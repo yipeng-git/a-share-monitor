@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yipeng-git.github.io/a-share-monitor/sitemap.xml

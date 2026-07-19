@@ -56,6 +56,7 @@ body {
 }
 
 .brand-mark {
+  margin: 0;
   font-family: var(--font-mono);
   font-weight: 600;
   font-size: 18px;
@@ -64,6 +65,14 @@ body {
   border: 1px solid var(--ink);
   box-shadow: 2px 2px 0 var(--ink);
   padding: 4px 8px;
+}
+
+.seo-intro {
+  margin: 0 0 16px;
+  max-width: 52em;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.55;
 }
 
 .brand-sub {
